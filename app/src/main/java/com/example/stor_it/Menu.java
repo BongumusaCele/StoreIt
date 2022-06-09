@@ -21,13 +21,35 @@ public class Menu extends AppCompatActivity {
     SettingsFragment settingsFragment = new SettingsFragment();
 
     @Override
+    public boolean onCreateOptionsMenu(android.view.Menu menu) {
+        getMenuInflater().inflate(R.menu.menu,menu);
+        return true;
+    }
+
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        switch (item.getItemId()){
+            case R.id.menuItemADD:
+                Intent additem = new Intent(Menu.this, Additem.class);
+                startActivity(additem);
+                return true;
+
+            case R.id.menuItemSetGoal:
+                Intent setGoal = new Intent(Menu.this, SetGoal.class);
+                startActivity(setGoal);
+                return true;
+        }
+        return true;
+    }
+
+    @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_menu);
 
         //getting element by ID
         bottomnavigationView = findViewById(R.id.NavigationView);
-        navigation = findViewById(R.id.navigationView);
+        //navigation = findViewById(R.menu.navigationView,menu);
 
         getSupportFragmentManager().beginTransaction().replace(R.id.containerr, homeFragment).commit();
 
@@ -53,7 +75,7 @@ public class Menu extends AppCompatActivity {
             }
         });
 
-        navigation.setNavigationItemSelectedListener(new NavigationView.OnNavigationItemSelectedListener() {
+        /*navigation.setNavigationItemSelectedListener(new NavigationView.OnNavigationItemSelectedListener() {
             @Override
             public boolean onNavigationItemSelected(@NonNull MenuItem item) {
                 switch (item.getItemId()){
@@ -69,6 +91,8 @@ public class Menu extends AppCompatActivity {
                 }
                 return false;
             }
-        });
+        });*/
+
+
     }
 }

@@ -6,18 +6,33 @@
         <entry key="..\:/Users/BONGUMUSA/AndroidStudioProjects/StorIt/app/src/main/res/drawable/buttonadd.xml" value="0.1045" />
         <entry key="..\:/Users/BONGUMUSA/AndroidStudioProjects/StorIt/app/src/main/res/drawable/buttonlog.xml" value="0.1045" />
         <entry key="..\:/Users/BONGUMUSA/AndroidStudioProjects/StorIt/app/src/main/res/drawable/buttonsignup.xml" value="0.1045" />
+        <entry key="..\:/Users/BONGUMUSA/AndroidStudioProjects/StorIt/app/src/main/res/drawable/ic_baseline_add.xml" value="0.1205" />
+        <entry key="..\:/Users/BONGUMUSA/AndroidStudioProjects/StorIt/app/src/main/res/drawable/ic_baseline_delete_24.xml" value="0.1205" />
+        <entry key="..\:/Users/BONGUMUSA/AndroidStudioProjects/StorIt/app/src/main/res/drawable/ic_baseline_more_vert.xml" value="0.1045" />
         <entry key="..\:/Users/BONGUMUSA/AndroidStudioProjects/StorIt/app/src/main/res/layout/activity_add_collection.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/BONGUMUSA/AndroidStudioProjects/StorIt/app/src/main/res/layout/activity_add_file.xml" value="0.22447916666666667" />
         <entry key="..\:/Users/BONGUMUSA/AndroidStudioProjects/StorIt/app/src/main/res/layout/activity_additem.xml" value="0.25" />
+        <entry key="..\:/Users/BONGUMUSA/AndroidStudioProjects/StorIt/app/src/main/res/layout/activity_category_clicked.xml" value="0.22" />
         <entry key="..\:/Users/BONGUMUSA/AndroidStudioProjects/StorIt/app/src/main/res/layout/activity_login.xml" value="0.2" />
         <entry key="..\:/Users/BONGUMUSA/AndroidStudioProjects/StorIt/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Users/BONGUMUSA/AndroidStudioProjects/StorIt/app/src/main/res/layout/activity_menu.xml" value="0.2" />
         <entry key="..\:/Users/BONGUMUSA/AndroidStudioProjects/StorIt/app/src/main/res/layout/activity_set_goal.xml" value="0.22447916666666667" />
         <entry key="..\:/Users/BONGUMUSA/AndroidStudioProjects/StorIt/app/src/main/res/layout/activity_signup.xml" value="0.22" />
         <entry key="..\:/Users/BONGUMUSA/AndroidStudioProjects/StorIt/app/src/main/res/layout/activity_start.xml" value="0.25" />
+        <entry key="..\:/Users/BONGUMUSA/AndroidStudioProjects/StorIt/app/src/main/res/layout/add_item_layout.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/BONGUMUSA/AndroidStudioProjects/StorIt/app/src/main/res/layout/add_update_lay.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/BONGUMUSA/AndroidStudioProjects/StorIt/app/src/main/res/layout/category_row.xml" value="0.22447916666666667" />
         <entry key="..\:/Users/BONGUMUSA/AndroidStudioProjects/StorIt/app/src/main/res/layout/fragment_home.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/BONGUMUSA/AndroidStudioProjects/StorIt/app/src/main/res/layout/fragment_home2.xml" value="0.22447916666666667" />
         <entry key="..\:/Users/BONGUMUSA/AndroidStudioProjects/StorIt/app/src/main/res/layout/fragment_profile.xml" value="0.22447916666666667" />
         <entry key="..\:/Users/BONGUMUSA/AndroidStudioProjects/StorIt/app/src/main/res/layout/fragment_settings.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/BONGUMUSA/AndroidStudioProjects/StorIt/app/src/main/res/layout/item_row.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/BONGUMUSA/AndroidStudioProjects/StorIt/app/src/main/res/layout/set_goal_layout.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/BONGUMUSA/AndroidStudioProjects/StorIt/app/src/main/res/menu/add_photo.xml" value="0.22447916666666667" />
         <entry key="..\:/Users/BONGUMUSA/AndroidStudioProjects/StorIt/app/src/main/res/menu/botton_nav_menu.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/BONGUMUSA/AndroidStudioProjects/StorIt/app/src/main/res/menu/item_popup_menu.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/BONGUMUSA/AndroidStudioProjects/StorIt/app/src/main/res/menu/menu.xml" value="0.1" />
+        <entry key="..\:/Users/BONGUMUSA/AndroidStudioProjects/StorIt/app/src/main/res/menu/mymenu.xml" value="0.22447916666666667" />
         <entry key="..\:/Users/BONGUMUSA/AndroidStudioProjects/StorIt/app/src/main/res/menu/top_navigation.xml" value="0.18" />
       </map>
     </option>

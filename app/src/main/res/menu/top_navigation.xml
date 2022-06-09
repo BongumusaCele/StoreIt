@@ -2,17 +2,24 @@
 <menu xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:android="http://schemas.android.com/apk/res/android">
 
-    <item android:title="Add Item"
-        android:id="@+id/menuItemADD"/>
-    <item android:title="Edit"
-        android:id="@+id/menuItemEdit"/>
-    <item android:title="Filter by"
-        android:id="@+id/menuItemFilter"/>
-    <item android:title="Set Goal"
-        android:id="@+id/menuItemSetGoal"/>
-    <item
-        android:id="@+id/app_bar_search"
-        android:icon="@drawable/ic_baseline_search_24"
-        android:title="Search"
-        app:actionViewClass="android.widget.SearchView" />
+    <item app:showAsAction="always"
+        android:icon="@drawable/ic_baseline_more_vert"
+        android:title=""
+        android:id="@+id/top_menu"/>
+    <menu>
+        <item android:title="Add Item"
+            android:id="@+id/menuItemADD"/>
+        <item android:title="Edit"
+            android:id="@+id/menuItemEdit"/>
+        <item android:title="Filter by"
+            android:id="@+id/menuItemFilter"/>
+        <item android:title="Set Goal"
+            android:id="@+id/menuItemSetGoal"/>
+        <item
+            android:id="@+id/app_bar_search"
+            android:icon="@drawable/ic_baseline_search_24"
+            android:title="Search"
+            app:actionViewClass="android.widget.SearchView" />
+    </menu>
+
 </menu>

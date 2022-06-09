@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "563679817311",
+    "project_id": "storit-3db69",
+    "storage_bucket": "storit-3db69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563679817311:android:952c94a104a127a387f5ea",
+        "android_client_info": {
+          "package_name": "com.example.stor_it"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563679817311-vh3qp0ku062v1guovtdmmgvnv1066mcn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdsZGqxj_l25gy_O18VJCxO3ESVLArzeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563679817311-vh3qp0ku062v1guovtdmmgvnv1066mcn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
